@@ -1,11 +1,52 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+[
+	{
+		name: 'branch1',
+		score: 0.4,
+		categories: [
+			{
+				name: 'category1',
+				score: 0.5,
+				occurence_since_last_evaluation: 80,
+				evaluation_trigger_occurence_threshold: 100,
+			},
+		],
+	},
+	{
+		name: 'branch2',
+		score: 0.9,
+		categories: [
+			{
+				name: 'Branch2 - Category1',
+				score: 0.5,
+				occurence_since_last_evaluation: 70,
+				evaluation_trigger_occurence_threshold: 100,
+			},
+		],
+	},
+	{
+		name: 'branch3',
+		score: 0.7,
+		categories: [
+			{
+				name: 'Branch3 - Category1',
+				score: 0.5,
+				occurence_since_last_evaluation: 70,
+				evaluation_trigger_occurence_threshold: 100,
+			},
+			{
+				name: 'Branch3 - Category2',
+				score: 0.5,
+				occurence_since_last_evaluation: 70,
+				evaluation_trigger_occurence_threshold: 100,
+			},
+		],
+	},
+	{
+		name: 'branch4',
+		score: 0.6,
+		categories: [],
+	},
+];
+
 }
