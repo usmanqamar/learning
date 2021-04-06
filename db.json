@@ -1,4 +1,4 @@
-
+{ "graphData":
 [
 	{
 		name: 'branch1',
@@ -47,4 +47,5 @@
 		score: 0.6,
 		categories: [],
 	},
-];
+]
+}
