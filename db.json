@@ -25,12 +25,12 @@
    },
    {
       "name":"branch3",
-      "score":0.7,
+      "score":0.9,
       "categories":[
          {
             "name":"Branch3 - Category1",
             "score":0.5,
-            "occurence_since_last_evaluation":70,
+            "occurence_since_last_evaluation":101,
             "evaluation_trigger_occurence_threshold":100
          },
          {
@@ -45,7 +45,18 @@
       "name":"branch4",
       "score":0.6,
       "categories":[
-         
+         {
+            "name":"Branch4 - Category1",
+            "score":0.5,
+            "occurence_since_last_evaluation":90,
+            "evaluation_trigger_occurence_threshold":100
+         },
+         {
+            "name":"Branch4 - Category2",
+            "score":0.5,
+            "occurence_since_last_evaluation":40,
+            "evaluation_trigger_occurence_threshold":100
+         }
       ]
    }
 ]
