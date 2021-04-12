@@ -47,13 +47,31 @@
       "categories":[
          {
             "name":"Branch4 - Category1",
-            "score":0.5,
+            "score":0.4,
             "occurence_since_last_evaluation":90,
             "evaluation_trigger_occurence_threshold":100
          },
          {
             "name":"Branch4 - Category2",
-            "score":0.5,
+            "score":0.9,
+            "occurence_since_last_evaluation":40,
+            "evaluation_trigger_occurence_threshold":100
+         }
+      ]
+   },
+   {
+      "name":"branch5",
+      "score":0.6,
+      "categories":[
+         {
+            "name":"Branch5 - Category1",
+            "score":0.4,
+            "occurence_since_last_evaluation":90,
+            "evaluation_trigger_occurence_threshold":100
+         },
+         {
+            "name":"Branch5 - Category2",
+            "score":0.9,
             "occurence_since_last_evaluation":40,
             "evaluation_trigger_occurence_threshold":100
          }
