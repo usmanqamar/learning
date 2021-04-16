@@ -78,11 +78,22 @@
       ]
    }
 ],
- "css_configuration": {
+ "css_configuration": [
+ {
+    "id": 1,
    "primary_color": "#1B9BE4",
    "secondary_color": "#E4641B",
    "background_color": "#DDD",
    "border_radius": "25px"
+ },
+    {
+    "id": 2,
+   "primary_color": "#E4641B",
+   "secondary_color": "#1B9BE4",
+   "background_color": "#EEE",
+   "border_radius": "25px"
  }
+ ]
+ 
 
 }
