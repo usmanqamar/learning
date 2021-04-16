@@ -91,7 +91,7 @@
       "primary_color": "#E4641B",
       "secondary_color": "#1B9BE4",
       "background_color": "#EEE",
-      "border_radius": "25px"
+      "border_radius": "4px"
    }
 ],
  "verify": [
