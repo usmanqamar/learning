@@ -1,5 +1,7 @@
 { 
-   "typeform": "LHZFQ93L",
+   "typeform": {
+      "id":"LHZFQ93L"
+   },
    "graph":[
    {
       "name":"branch1",
