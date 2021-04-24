@@ -3,10 +3,17 @@
       "id":"LHZFQ93L",
 "typeform_user_identifier": "xyz"
    },
-   "widget_config": {
+   "widget_config": [{
+      "id": 1,
       "widget-type": "elearning-radar-graph",
       "main_object_id": "xyz123"
    },
+                    {
+      "id": 2,
+      "widget-type": "elearning-radar-graph",
+      "main_object_id": "xyz124"
+   }],
+        
    "graph":[
    {
       "name":"branch1",
