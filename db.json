@@ -6,7 +6,7 @@
    "widget_config": [{
       "id": 1,
       "widget-type": "elearning-radar-graph",
-      "main_object_id": "xyz123"
+      "radar_graph_id": "xyz123"
    },
                     {
       "id": 2,
